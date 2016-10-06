@@ -1,3 +1,4 @@
-_site/
-.sass-cache/
-.jekyll-metadata
+express --git --hbs linkedin-oauth
+cd linkedin-oauth
+npm install
+nodemon
